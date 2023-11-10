@@ -1,0 +1,42 @@
+#red{
+    color: red;
+    text-shadow: 2px 2px 4px black;
+}
+
+#blue{color: blue;
+    text-shadow: 2px 2px 4px black;}
+
+#orange{color: orange;
+    text-shadow: 2px 2px 4px black;}
+
+#green{color: green;
+    text-shadow: 2px 2px 4px black;}
+
+#yellow {
+    color: yellow;
+    text-shadow: 2px 2px 4px black;}
+
+*{font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+}
+
+
+.color-title{font-weight: bold;}
+
+img{
+
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    box-shadow: 2px 2px 4px black;;
+}
+*{
+    text-align: center;
+
+}
+body {
+    background-image: url("./assets/images/cream.jpg");
+    background-size: cover;
+  }
